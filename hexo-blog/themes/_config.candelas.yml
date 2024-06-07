@@ -5,7 +5,7 @@ menu:
   Archive: /archives
 favicon: /favicon.ico
 banner:
-  - "https://res.cloudinary.com/drukwdwxz/image/upload/v1717456232/clearingpam15_n5l0je.jpg"
+  - "https://asset.cloudinary.com/drukwdwxz/5e85bbaf67910ed99bdcad8f87861f7b"
 
 
 # Content
@@ -48,7 +48,7 @@ profile:
   source: 'Linus Torvalds'
   name: 'DukeLuo'
   location: 'Wuhan'
-  github: DukeLuo             # the username of GitHub
+  github: xxx             # the username of GitHub
   stackoverflow: 12814009     # the user ID of Stack Overflow
-  email: dukeluo@outlook.com
+  email: xxx
   rss: /atom.xml
